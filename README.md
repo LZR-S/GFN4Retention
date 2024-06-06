@@ -2,7 +2,7 @@
 
 🐧 Implementation of GFN4Retention on KuaiSim for Kuairand-Pure Dataset
 
-![这是图片](GFN4Ret.pdf "Magic Gardens")
+![这是图片](GFN4Retention/GFN4Ret.pdf "Magic Gardens")
 
 # 0.Setup
 
