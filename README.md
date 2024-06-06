@@ -55,7 +55,7 @@ bash generate_session_data.sh
 
 # 2 Retention Optimization
 
-User retention happens after leaving of previous session and identifies the beginning of the next session.
+User retention happens after leaving the previous session and identifies the beginning of the next session.
 
 ## 2.1 Setup
 
@@ -63,7 +63,7 @@ Evaluation metrics and protocol
 
 **Return time** is the average time gap between the last request of the session and the first request of the session. 
 
-**User retention** is the average ratio of visiting the system again.
+**User retention** is the reciprocal return time gap. (user return frequency)
 
 ## 2.2 Training for GFN model
 
