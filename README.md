@@ -2,7 +2,7 @@
 
 🐧 Implementation of GFN4Retention on KuaiSim for Kuairand-Pure Dataset
 
-![image.png]([https://s2.loli.net/2023/10/19/jqxFePgfVzRdILc.png](https://ibb.co/xfQbgWy))
+![image.png](https://s2.loli.net/2023/10/19/jqxFePgfVzRdILc.png)
 
 # 0.Setup
 
