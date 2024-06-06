@@ -1,4 +1,4 @@
-# KRLBenchmark
+# Modeling User Retention through Generative Flow Networks
 
 Implementation of GFN4Retention on KuaiSim for Kuairand-Pure Dataset
 
